@@ -1,3 +1,5 @@
+# solution to task 'elephants' version 1
+
 import sys
 from glob import glob
 
