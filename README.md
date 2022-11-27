@@ -1,2 +1,2 @@
 # elephants
-## solution to task 'elephants'
+solution to task 'elephants'
